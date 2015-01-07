@@ -1,0 +1,63 @@
+= Jozef Wagner
+
+Christian, Researcher, Software engineer
+
+[.float-group]
+--
+image::wagjo.jpg[Jozef, 250, float="left", role="thumb"]
+
+Researcher and software engineer, skilled in data mining, artificial intelligence and full stack web development. Implemented and delivered software back-end and middleware services for several multinational projects.
+
+Experienced also in low-level programming and communication with industrial electronic devices. Designed and developed software solutions for the medical and electrochemical industry.
+
+Researcher in the field of artificial Intelligence, data mining and business informatics. Polyglot programmer with preference to functional programming. Active in the open source community, a Clojure registered contributor.
+--
+
+http://github.com/wagjo[Github] &nbsp; https://twitter.com/wagjo[@wagjo] &nbsp; wagjo@wagjo.com
+
+== Open Source Projects
+
+* http://www.dunaj.org[Dunaj], an alternative core API for Clojure
+* Comparison of https://github.com/wagjo/serialization-formats[Data serialization formats]
+* https://github.com/wagjo/borneo[Borneo], a Clojure wrapper for Neo4j
+* http://www.wagjo.com/benchmark-cljs/[Benchmarking Clojurescript]
+
+== Experience
+
+=== Systems architect, Software engineer @ Istran s.r.o.
+
+[.float-group]
+--
+image::istran.jpg[Istran, 200, float="left", role="thumb"]
+
+Responsible for the architecture, design and development of measuring and on-line monitoring software for laboratory (determination of trace and high concentrations of metals, semi-metals and numerous non-metals in various samples) and process analyzers (unattended monitoring system for a continuous measurement of concentrations of heavy metals and some non-metals in waters, waste waters and technological liquids).
+--
+
+=== Software Engineer, Researcher
+
+[.float-group]
+--
+image::us.png[UrbanSensing, 200, float="right", role="thumb"]
+
+* ✳UrbanSensing, a FP7 IST EU Project. Responsible for design and implementation of data connectors and annotation middleware service.
+* UVP TECHNIKOM, a project funded under Operational Programme Education. Research in the field of process mining with focus on big data. Responsible for architecture and design of SaaS solutions for process mining and business intelligence.
+* Developer at SPES, a CENTRAL EUROPE programme project. Responsible for platform testing, communication with medical devices and software for managing manual measurements.
+
+image::kplab.png[KPLab, 200, float="right", role="thumb"]
+* IT4KT - Information Technologies for Knowledge Transfer, a national project. Responsible for research, design and implementation of semantic middleware, project dictionary and ontology. Teaching fellow for software development and business informatics courses.
+* Researcher at Centre for Information Technologies, working on KP-Lab, a FP6 IST EU Project. Responsible for design and implementation of middleware web services.
+--
+
+== Education
+
+* Ph.D. in Artificial Intelligence, Department of Cybernetics and Artificial Intelligence, Technical University of Kosice.
+** Dissertation: Analysis of Knowledge Creation Processes. Event log analysis with search based on knowledge-creation patterns
+* M.Sc. eq. in Artificial Intelligence, Department of Cybernetics and Artificial Intelligence, Technical University of Kosice.
+** Master thesis: Multiagent computer generated oponents for Counter Strike with automatic map generation
+
+=== Selected Publications
+
+* Babič, F., Wagner, J., Paralič, J. (2012). Investigation of performed user activities in overall context with IT analytical framework. In: Lecture Notes in Business Information Processing : Business Information Systems, Heidelberg : Springer-Verlag, Roč.117(2012), s.284-295, ISSN 1865-1348.
+* Babič, F., Wagner, J., Paralič, J. (2012). The use of event logs for collaborative practices reflection. In: International Journal of Intelligent Information and Database Systems, Roč.6, č.5(2012), s.421-435, ISSN 1751-5866.
+* Paralič, J., Richter, Ch., Babič, F., Wagner, J., Raček, M. (2011). Mirroring of knowledge practices based on user-defined patterns. In: The Journal of Universal Computer Science, roč. 17, č. 10 (2011), s.1474-1491, ISSN 0948-695X.
+* Paralič, J., Babič, F., Wagner, J., Bednár, P., Paralič, M. (2010). KP-lab system for the support of collaborative learning and working practices, based on trialogical learning. In: Informatica : an International Journal of Computing and Informatics. Vol. 34, no. 3 (2010), s.341-351, ISSN 0350-5596.
