@@ -1,0 +1,56 @@
+= Clojure Consulting services
+:icons: font
+
+I'm currently available for remote work and consulting for Clojure projects.
+I will help you to deliver, scale and adapt your Clojure
+projects to your customers' ever changing needs.
+
+Located in Central Europe, I provide remote consulting and contracting
+services primarily for the EU region.
+You can contact http://www.wagjo.com[Jozef Wagner]
+at wagjo@wagjo.com
+
+I specialize in the fields of data mining, artificial intelligence, business
+informatics and low level programming.
+My focus is on delivering simple and clean solution to the problem at hand,
+while keeping the result practical and efficient.
+
+I've been working with Clojure since 2009 and have more than 15 years of
+professional experience with other languages such as Java, C#, C++ and C.
+I'm an active Clojure contributor and have delivered multiple tickets and
+patches to both core Clojure language and its libraries.
+With a thorough knowledge of Clojure, its internals and the surrounding
+ecosystem, I'm able to help you in multiple stages of your new or existing
+Clojure projects:
+
+=== Design
+
+* Design and review of overall technical architecture
+* Fleshing out technical and functional requirements
+* Help in choosing the right tool for the job
+
+=== Migration
+
+Migration of existing Java projects to Clojure safely and without downtime.
+I will help you to gradually introduce Clojure into your project, working on
+identifying, designing and implementing modules and libraries with well defined
+and isolated functionality.
+
+=== Development
+
+* Hacking and prototyping in order to find the right approach to a given problem
+* Providing production ready implementation with focus on simplicity and
+  performance
+* Code review, refactoring and optimization of existing Clojure code
+* Profiling and performance improvements, tracking down and fixing tough bugs
+
+=== Training and advising
+
+Remote or on-site tutoring, group or one on one training sessions,
+crafted for the specific needs of your team.
+I will help your team to keep up with recent and upcoming language additions.
+Explaining Clojure's internals, best practices and rationale behind idioms and
+design choices. Guidance and aid in the process of evaluation and
+introduction of new language features such as reducers and upcoming transducers.
+
+<<index.ad#,Back to the homepage>>

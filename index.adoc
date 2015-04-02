@@ -1,4 +1,5 @@
 = Jozef Wagner
+:icons: font
 
 Christian, Researcher, Software engineer
 
@@ -10,10 +11,26 @@ Researcher and software engineer, skilled in data mining, artificial intelligenc
 
 Experienced also in low-level programming and communication with industrial electronic devices. Designed and developed software solutions for the medical and electrochemical industry.
 
-Researcher in the field of artificial Intelligence, data mining and business informatics. Polyglot programmer with preference to functional programming. Active in the open source community, a Clojure registered contributor.
+Researcher in the field of artificial Intelligence, data mining and business informatics. Polyglot programmer with preference to functional programming. Active in open source community, a Clojure registered contributor.
 --
 
-http://github.com/wagjo[Github] &nbsp; https://twitter.com/wagjo[@wagjo] &nbsp; wagjo@wagjo.com
+icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:envelope-o[] wagjo@wagjo.com
+
+== Consulting services
+
+I'm available for <<consulting.ad#,Clojure consulting>> and
+remote contract work. I will help your new or existing Clojure
+projects to deliver, scale and adapt to your customers' ever changing
+needs. <<consulting.ad#,read more>>.
+
+Located in Central Europe, I provide my
+services primarily for the EU region, and remotely.
+
+== Blog
+
+Latest posts from my low-frequency Clojure related blog:
+
+* http://blog.wagjo.com/set.html[Universal and Complement Sets in Dunaj]
 
 == Open Source Projects
 
