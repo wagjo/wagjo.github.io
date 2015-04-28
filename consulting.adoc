@@ -41,7 +41,8 @@ and isolated functionality.
 * Hacking and prototyping in order to find the right approach to a given problem
 * Providing production ready implementation with focus on simplicity and
   performance
-* Code review, refactoring and optimization of existing Clojure code
+* Refactoring and optimization of existing Clojure code
+* Manual code audit, finding violations of idioms and best practices, potential sources of bugs or performance bottlenecks
 * Profiling and performance improvements, tracking down and fixing tough bugs
 
 === Training and advising
