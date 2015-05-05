@@ -7,23 +7,22 @@ Business Consultant, Experienced Software Engineer
 --
 image::wagjo.jpg[Jozef, 250, float="left", role="thumb"]
 
-Identifies and solves business problems with software and
-technical solutions.
-*Addresses business needs with the application of techniques from the
-field of data mining, business informatics and machine learning.*
+I solve business problems and create additional value for your
+company. My expertise is in helping your customer facing
+software to <<Consulting Services,generate and increase revenue>>.
+Moreover, I will help you to reduce costs through the improvement of
+your back office and line of business software.
 
-Enables companies to
-<<Consulting Services,generate and increase revenue>>
-with their customer facing and business critical software.
-Helps to reduce costs through the improvement of companies'
-back office and line of business software.
+*I specialize in addressing your business needs with the application
+of techniques from the field of data mining, business informatics and
+machine learning.*
 
-More than 10 years of <<Experience,professional experience>> with
-software development. <<Selected Academic Publications,Researcher>>
-in the field of Artificial Intelligence. Polyglot programmer with a
-preference to functional programming. Active in the
-<<Open Source Projects,open source>> community,
-a Clojure registered contributor.
+I have more than 10 years of <<Experience,professional experience>>
+with software development. My focus is on delivering simple and clean
+solution to the problem at hand, while keeping the result practical
+and efficient. I'm a polyglot programmer with a preference to
+functional programming, and I'm also active in the
+<<Open Source Projects,open source>> community.
 --
 
 icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:linkedin[] https://sk.linkedin.com/in/jozefwagner[jozefwagner] &nbsp; icon:envelope-o[] wagjo@wagjo.com
@@ -75,19 +74,33 @@ More details will be provided mailto:wagjo@wagjo.com[upon request].
 
 == Consulting Services
 
+I will bring additional business value to your company by:
+
+* Designing, development and deployment of software solutions that
+  solve your business problems and brings additional revenue.
+* Processing and analyzing your company's available data and logs,
+  in order to discover actionable knowledge that will enable you
+  to make highly informed decisions.
+* Helping you to automate various line of business processes including
+  data analysis one, in order to reduce costs and provide real time
+  and up to date evaluations and insights.
+
 I'm available for consulting and remote contract work.
 Feel free to contact me at wagjo@wagjo.com.
 Located in Central Europe, I provide my services primarily for the EU region, and remotely.
 See more <<consulting.ad#,technology heavy details>> about my
 consulting services and technical proficiencies.
 
-I'm particularly interested in projects that involve the usage of a
-Clojure programming language. Please <<consulting.ad#,read more
+NOTE: I'm particularly interested in projects that involve the usage
+of a Clojure programming language. Please <<consulting.ad#,read more
 about my services>> that will help your new or existing Clojure
 projects to deliver, scale and adapt to your customers' ever changing
 needs.
 
 == Open Source Projects
+
+I'm https://youtu.be/NvF-GZI20L4?t=1715[one of the few]
+Clojure 1.7 contributors.
 
 * http://www.dunaj.org[Dunaj], an alternative core API for Clojure
 * Comparison of https://github.com/wagjo/serialization-formats[Data serialization formats]
