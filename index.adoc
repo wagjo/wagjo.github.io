@@ -37,7 +37,7 @@ data analytics platform for urban design, city planning and urban
 management market.
 
 * Contributed to the middleware services for innovative data-driven
-analytics plaform for a multinational information design agency,
+analytics platform for a multinational information design agency,
 which enabled company to provide a new group of services and generate
  additional revenue.
 
