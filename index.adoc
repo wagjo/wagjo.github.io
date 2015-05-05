@@ -1,37 +1,91 @@
 = Jozef Wagner
 :icons: font
 
-Christian, Researcher, Software engineer
+Business Consultant, Experienced Software Engineer
 
 [.float-group]
 --
 image::wagjo.jpg[Jozef, 250, float="left", role="thumb"]
 
-Researcher and software engineer, skilled in data mining, artificial intelligence and full stack web development. Implemented and delivered software back-end and middleware services for several multinational projects.
+Identifies and solves business problems with software and
+technical solutions.
+*Addresses business needs with the application of techniques from the
+field of data mining, business informatics and machine learning.*
 
-Experienced also in low-level programming and communication with industrial electronic devices. Designed and developed software solutions for the medical and electrochemical industry.
+Enables companies to
+<<Consulting Services,generate and increase revenue>>
+with their customer facing and business critical software.
+Helps to reduce costs through the improvement of companies'
+back office and line of business software.
 
-Researcher in the field of artificial Intelligence, data mining and business informatics. Polyglot programmer with preference to functional programming. Active in open source community, a Clojure registered contributor.
+More than 10 years of <<Experience,professional experience>> with
+software development. <<Selected Academic Publications,Researcher>>
+in the field of Artificial Intelligence. Polyglot programmer with a
+preference to functional programming. Active in the
+<<Open Source Projects,open source>> community,
+a Clojure registered contributor.
 --
 
-icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:envelope-o[] wagjo@wagjo.com
+icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:linkedin[] https://sk.linkedin.com/in/jozefwagner[jozefwagner] &nbsp; icon:envelope-o[] wagjo@wagjo.com
 
-== Consulting services
+== Experience
 
-I'm available for <<consulting.ad#,Clojure consulting>> and
-remote contract work. I will help your new or existing Clojure
+image::us.png[UrbanSensing, 200, float="right", role="thumb"]
+
+* Implemented and deployed backend services that collect and process
+large amount of streaming geolocalized content, providing input for a
+data analytics platform for urban design, city planning and urban
+management market.
+
+* Contributed to the middleware services for innovative data-driven
+analytics plaform for a multinational information design agency,
+which enabled company to provide a new group of services and generate
+ additional revenue.
+
+* Designed and implemented software solution that allowed company to
+introduce new product for the medical and chemical laboratories.
+
+image::istran.jpg[Istran, 200, float="right", role="thumb"]
+
+* Upgraded existing software and implemented new features that enabled
+company operating in electrochemical industry to enter Asian market,
+gain competitive advantage and generate further revenue.
+
+* Created a software solution from the ground up that communicates
+with and controls a monitoring system for waste waters and
+technological liquids, operating at multinational hardware
+manufacturers throughout western and southern Europe.
+
+* Responsible for the provisioning, operation and administration of
+dedicated servers and a private cloud. Introduced state of the art
+approaches and solutions for the technology operations.
+
+[.float-group]
+--
+image::kplab.png[KPLab, 200, float="right", role="thumb"]
+
+* Participated, as a member of multinational and multidisciplinary
+team, in the process of application of semantic technologies
+to the education process, designing and implementing ontologies and
+related backend services that provide novel ways of data management
+and knowledge analysis.
+
+More details will be provided mailto:wagjo@wagjo.com[upon request].
+--
+
+== Consulting Services
+
+I'm available for consulting and remote contract work.
+Feel free to contact me at wagjo@wagjo.com.
+Located in Central Europe, I provide my services primarily for the EU region, and remotely.
+See more <<consulting.ad#,technology heavy details>> about my
+consulting services and technical proficiencies.
+
+I'm particularly interested in projects that involve the usage of a
+Clojure programming language. Please <<consulting.ad#,read more
+about my services>> that will help your new or existing Clojure
 projects to deliver, scale and adapt to your customers' ever changing
-needs. <<consulting.ad#,read more>>.
-
-Located in Central Europe, I provide my
-services primarily for the EU region, and remotely.
-
-== Blog
-
-Latest posts from my low-frequency Clojure related blog:
-
-* http://blog.wagjo.com/markov.html[Markov Text Generator in Dunaj]
-* http://blog.wagjo.com/set.html[Universal and Complement Sets in Dunaj]
+needs.
 
 == Open Source Projects
 
@@ -40,31 +94,13 @@ Latest posts from my low-frequency Clojure related blog:
 * https://github.com/wagjo/borneo[Borneo], a Clojure wrapper for Neo4j
 * http://www.wagjo.com/benchmark-cljs/[Benchmarking Clojurescript]
 
-== Experience
+=== Blog
 
-=== Systems architect, Software engineer @ Istran s.r.o.
+Latest posts from my low-frequency software development and Clojure
+related blog:
 
-[.float-group]
---
-image::istran.jpg[Istran, 200, float="left", role="thumb"]
-
-Responsible for the architecture, design and development of measuring and on-line monitoring software for laboratory (determination of trace and high concentrations of metals, semi-metals and numerous non-metals in various samples) and process analyzers (unattended monitoring system for a continuous measurement of concentrations of heavy metals and some non-metals in waters, waste waters and technological liquids).
---
-
-=== Software Engineer, Researcher
-
-[.float-group]
---
-image::us.png[UrbanSensing, 200, float="right", role="thumb"]
-
-* ✳UrbanSensing, a FP7 IST EU Project. Responsible for design and implementation of data connectors and annotation middleware service.
-* UVP TECHNIKOM, a project funded under Operational Programme Education. Research in the field of process mining with focus on big data. Responsible for architecture and design of SaaS solutions for process mining and business intelligence.
-* Developer at SPES, a CENTRAL EUROPE programme project. Responsible for platform testing, communication with medical devices and software for managing manual measurements.
-
-image::kplab.png[KPLab, 200, float="right", role="thumb"]
-* IT4KT - Information Technologies for Knowledge Transfer, a national project. Responsible for research, design and implementation of semantic middleware, project dictionary and ontology. Teaching fellow for software development and business informatics courses.
-* Researcher at Centre for Information Technologies, working on KP-Lab, a FP6 IST EU Project. Responsible for design and implementation of middleware web services.
---
+* http://blog.wagjo.com/markov.html[Markov Text Generator in Dunaj]
+* http://blog.wagjo.com/set.html[Universal and Complement Sets in Dunaj]
 
 == Education
 
@@ -73,7 +109,7 @@ image::kplab.png[KPLab, 200, float="right", role="thumb"]
 * M.Sc. eq. in Artificial Intelligence, Department of Cybernetics and Artificial Intelligence, Technical University of Kosice.
 ** Master thesis: Multiagent computer generated oponents for Counter Strike with automatic map generation
 
-=== Selected Publications
+=== Selected Academic Publications
 
 * Babič, F., Wagner, J., Paralič, J. (2012). Investigation of performed user activities in overall context with IT analytical framework. In: Lecture Notes in Business Information Processing : Business Information Systems, Heidelberg : Springer-Verlag, Roč.117(2012), s.284-295, ISSN 1865-1348.
 * Babič, F., Wagner, J., Paralič, J. (2012). The use of event logs for collaborative practices reflection. In: International Journal of Intelligent Information and Database Systems, Roč.6, č.5(2012), s.421-435, ISSN 1751-5866.

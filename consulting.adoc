@@ -1,27 +1,66 @@
-= Clojure Consulting services
+= Consulting services
 :icons: font
 
-I'm currently available for remote work and consulting for Clojure projects.
-I will help you to deliver, scale and adapt your Clojure
-projects to your customers' ever changing needs.
+Hi, I'm http://www.wagjo.com[Jozef Wagner], an independent contractor
+and a software developer. This page focuses on technical aspects of my
+services and is quite technology heavy.
+Please see <<index.ad#,my homepage>> for more general and business
+related information about my consulting services.
 
-Located in Central Europe, I provide remote consulting and contracting
-services primarily for the EU region.
-You can contact http://www.wagjo.com[Jozef Wagner]
-at wagjo@wagjo.com
+Located in Central Europe, I provide consulting and contracting
+services primarily for the EU region, and remotely.
+You can contact me at wagjo@wagjo.com.
+I specialize in the fields of data mining, artificial intelligence,
+business informatics and low level programming.
+My focus is on delivering simple and clean solution to the problem at
+hand, while keeping the result practical and efficient.
 
-I specialize in the fields of data mining, artificial intelligence, business
-informatics and low level programming.
-My focus is on delivering simple and clean solution to the problem at hand,
-while keeping the result practical and efficient.
+== Technical proficiency
 
-I've been working with Clojure since 2009 and have more than 15 years of
-professional experience with other languages such as Java, C#, C++ and C.
-I'm an active Clojure contributor and have delivered multiple tickets and
-patches to both core Clojure language and its libraries.
-With a thorough knowledge of Clojure, its internals and the surrounding
-ecosystem, I'm able to help you in multiple stages of your new or existing
-Clojure projects:
+I've started programming as a kid and went through BASIC, Pascal, and
+writing programs for microcontrollers in an assembly language.
+I have more than 10 years of professional experience with languages
+such as Java, C#, C++ and C. 
+
+I have a PhD. in Artificial Intelligence and I've hacked on a couple
+of AI related applications in C/C++, Common Lisp and Prolog, ranging
+from neural networks with backprop, perceptrons, expert systems,
+to scheduling and logistic algorithms.
+
+I've implemented and delivered software backend and middleware
+services for several multinational EU funded projects.
+I'm also experienced in a low-level programming and communication
+with industrial electronic devices. I've designed and developed
+software solutions for the medical and electrochemical industry.
+
+I've worked with multiple kind of databases like
+traditional SQL ones, graph databases like Neo4j, custom semantically
+oriented databases that used SPARQL, infamous NoSQL databases like
+MongoDB and also with search oriented data engines like Elasticsearch.
+
+I'm skilled in full stack web development and related technologies.
+Besides contemporary hip web languages, I've also went
+through a dark age of WS-*, SOAP, XSLT and other XML related
+technologies. I also did a couple of DevOps related stuff on 
+multiple occasions.
+
+I'm a very big fan of a Clojure language and I'm an active contributor
+to the language and its surrounding ecosystem.
+I'm active in the
+<<index.ad#_open_source_projects,Open Source community>> and I'm
+running a low frequency http://blog.wagjo.com[Clojure oriented blog].
+
+== Clojure Consulting
+
+I'm particularly interested in a remote work and consulting for
+Clojure projects. I will help you to deliver, scale and adapt your
+Clojure projects to your customers' ever changing needs.
+
+I've been working with Clojure since 2009. I'm an active Clojure
+contributor and have delivered multiple tickets and patches to both
+core Clojure language and its libraries. With a thorough knowledge of
+Clojure, its internals and the surrounding ecosystem, I'm able to
+help you in multiple stages of your new or existing Clojure projects:
 
 === Design
 
