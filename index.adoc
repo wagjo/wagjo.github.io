@@ -55,8 +55,8 @@ with and controls a monitoring system for waste waters and
 technological liquids, operating at multinational hardware
 manufacturers throughout western and southern Europe.
 
-* Responsible for the provisioning, operation and administration of
-dedicated servers and a private cloud. Introduced state of the art
+* Performed provisioning and administration of dedicated servers
+and a private cloud. Introduced state of the art
 approaches and solutions for the technology operations.
 
 [.float-group]
