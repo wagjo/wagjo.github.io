@@ -4,7 +4,7 @@
 Hi, I'm http://www.wagjo.com[Jozef Wagner], an independent contractor,
 business consultant and a software developer. This page focuses on
 technical aspects of my services and is quite technology heavy.
-Please see <<index.ad#,my homepage>> for more general and business
+Please see http://www.wagjo.com/[my homepage] for more general and business
 related information about my consulting services.
 
 Located in Central Europe, I provide consulting and contracting
@@ -54,7 +54,7 @@ couple of DevOps related stuff on multiple occasions.
 I'm a big fan of a Clojure and ClojureScript languages and I'm an
 active contributor to the language and its surrounding ecosystem.
 I'm active in the
-<<index.ad#_open_source_projects,Open Source community>> and I'm
+http://www.wagjo.com/#_open_source_projects[Open Source community] and I'm
 running a low frequency http://blog.wagjo.com[Clojure oriented blog].
 
 == Clojure Consulting
@@ -100,4 +100,4 @@ Explaining Clojure's internals, best practices and rationale behind idioms and
 design choices. Guidance and aid in the process of evaluation and
 introduction of new language features such as reducers and upcoming transducers.
 
-<<index.ad#,Back to the homepage>>
+http://www.wagjo.com[Back to the homepage]
