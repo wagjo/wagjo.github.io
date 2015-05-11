@@ -24,8 +24,8 @@ machine learning. I will help you to reduce risks and maintain trust
 in your products, processes, and business critical systems.
 I will also aid you in making better and more informed decisions.
 
-[.text-center]
-Software Development &nbsp; &#x2022; &nbsp; Business Intelligence &nbsp; &#x2022; &nbsp; <<Open Source Projects,Clojure Specialist>>
+[.dtext-center]
+*Software Development&nbsp; &#x2022; &nbsp;Business Intelligence&nbsp; &#x2022; &nbsp;<<Open Source Projects,Clojure Specialist>>*
 --
 
 icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:linkedin[] https://sk.linkedin.com/in/jozefwagner[jozefwagner] &nbsp; icon:phone[] +421 949 213 889 &nbsp; icon:envelope-o[] wagjo@wagjo.com
