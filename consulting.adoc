@@ -10,8 +10,8 @@ related information about my consulting services.
 Located in Central Europe, I provide consulting and contracting
 services primarily for the EU region, and remotely.
 You can contact me at wagjo@wagjo.com.
-I specialize in the fields of data mining, artificial intelligence,
-business informatics and low level programming.
+I specialize in the fields of data mining, business intelligence,
+machine learning and low level programming.
 My focus is on delivering simple and clean solution to the problem at
 hand, while keeping the result practical and efficient.
 
@@ -26,8 +26,8 @@ with Clojure, Java, C#, C++ and C.
 I've implemented and delivered software for several multinational EU
 funded projects. I was involved in backend and middleware services
 that handle large amount of data, perform sentiments analysis, data
-aggregation, event stream processing, process and pattern discovery,
-and other data mining tasks.
+aggregation, event stream processing, pattern discovery,
+and data mining tasks.
 
 I've worked with multiple kind of databases such as
 traditional SQL ones, graph databases like Neo4j, custom semantically
@@ -48,10 +48,11 @@ business problems.
 I'm skilled in full stack web development and related technologies.
 Besides contemporary hip web languages and libraries, I'm not afraid
 to code in modern Javascript. I've also went through a dark age of
-WS-*, JSP, SOAP, XSLT and other XML related technologies. I also did a
+JSP, SOAP, XSLT and other XML related technologies. I also did a
 couple of DevOps related stuff on multiple occasions.
 
-I'm a big fan of a Clojure and ClojureScript languages and I'm an
+I'm a polyglot programmer with a preference to
+functional programming. I'm a big fan of a Clojure and ClojureScript languages and I'm an
 active contributor to the language and its surrounding ecosystem.
 I'm active in the
 http://www.wagjo.com/#_open_source_projects[Open Source community] and I'm

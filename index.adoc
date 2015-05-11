@@ -7,25 +7,28 @@ Business Consultant, Experienced Software Engineer
 --
 image::wagjo.jpg[Jozef, 250, float="left", role="thumb"]
 
-I solve business problems and create additional value for your
-company. My expertise is in helping your customer facing
-software to <<Consulting Services,generate and increase revenue>>.
-Moreover, I will help you to reduce costs through the improvement of
-your back office and line of business software.
+[.text-justify]
+I solve business problems and create additional value for my clients.
+My name is Jozef Wagner and my expertise as a
+<<Consulting Services,business consultant>> lies in *creating software
+that is tailored to meet individual business needs*.
+With more than 10 years of <<Experience,professional experience>>,
+I deliver solutions that generate revenue, have low total cost of
+ownership, and are flexible when adopting to new business strategies
+and initiatives.
 
-*I specialize in addressing your business needs with the application
-of techniques from the field of data mining, business informatics and
-machine learning.*
+[.text-justify]
+I specialize in addressing business needs with the application
+of techniques from the field of data mining, business intelligence and
+machine learning. I will help you to reduce risks and maintain trust
+in your products, processes, and business critical systems.
+I will also aid you in making better and more informed decisions.
 
-I have more than 10 years of <<Experience,professional experience>>
-with software development. My focus is on delivering simple and clean
-solution to the problem at hand, while keeping the result practical
-and efficient. I'm a polyglot programmer with a preference to
-functional programming, and I'm also active in the
-<<Open Source Projects,open source>> community.
+[.text-center]
+Software Development &nbsp; &#x2022; &nbsp; Business Intelligence &nbsp; &#x2022; &nbsp; <<Open Source Projects,Clojure Specialist>>
 --
 
-icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:linkedin[] https://sk.linkedin.com/in/jozefwagner[jozefwagner] &nbsp; icon:envelope-o[] wagjo@wagjo.com
+icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:linkedin[] https://sk.linkedin.com/in/jozefwagner[jozefwagner] &nbsp; icon:phone[] +421 949 213 889 &nbsp; icon:envelope-o[] wagjo@wagjo.com
 
 == Experience
 
