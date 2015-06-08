@@ -28,7 +28,7 @@ I will also aid you in making better and more informed decisions.
 *Software Development&nbsp; &#x2022; &nbsp;Business Intelligence&nbsp; &#x2022; &nbsp;<<Open Source Projects,Clojure Specialist>>*
 --
 
-icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:linkedin[] https://sk.linkedin.com/in/jozefwagner[jozefwagner] &nbsp; icon:phone[] +421 949 213 889 &nbsp; icon:envelope-o[] wagjo@wagjo.com
+icon:pencil[] http://blog.wagjo.com[Blog] &nbsp; icon:github[] http://github.com/wagjo[Github] &nbsp; icon:twitter[] https://twitter.com/wagjo[@wagjo] &nbsp; icon:linkedin[] https://sk.linkedin.com/in/jozefwagner[jozefwagner] &nbsp; icon:envelope-o[] wagjo@wagjo.com
 
 == Experience
 
@@ -115,6 +115,7 @@ Clojure 1.7 contributors.
 Latest posts from my low-frequency software development and Clojure
 related blog:
 
+* http://blog.wagjo.com/factory.html[Idiomatic Factory Pattern in Clojure]
 * http://blog.wagjo.com/markov.html[Markov Text Generator in Dunaj]
 * http://blog.wagjo.com/set.html[Universal and Complement Sets in Dunaj]
 
