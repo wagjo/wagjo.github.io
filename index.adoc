@@ -106,6 +106,7 @@ I'm https://youtu.be/NvF-GZI20L4?t=1715[one of the few]
 Clojure 1.7 contributors.
 
 * http://www.dunaj.org[Dunaj], an alternative core API for Clojure
+** https://github.com/dunaj-project/crispin[Crispin], a library for managing project-wide configuration
 * Comparison of https://github.com/wagjo/serialization-formats[Data serialization formats]
 * https://github.com/wagjo/borneo[Borneo], a Clojure wrapper for Neo4j
 * http://www.wagjo.com/benchmark-cljs/[Benchmarking Clojurescript]
