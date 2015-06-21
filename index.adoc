@@ -116,6 +116,7 @@ Clojure 1.7 contributors.
 Latest posts from my low-frequency software development and Clojure
 related blog:
 
+* http://blog.wagjo.com/jwt.html[Handling JSON Web Tokens in Dunaj]
 * http://blog.wagjo.com/factory.html[Idiomatic Factory Pattern in Clojure]
 * http://blog.wagjo.com/markov.html[Markov Text Generator in Dunaj]
 * http://blog.wagjo.com/set.html[Universal and Complement Sets in Dunaj]
