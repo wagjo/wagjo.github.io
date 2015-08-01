@@ -20,9 +20,9 @@ and initiatives.
 [.text-justify]
 I specialize in addressing business needs with the application
 of techniques from the field of data mining, business intelligence and
-machine learning. I will help you to reduce risks and maintain trust
-in your products, processes, and business critical systems.
-I will also aid you in making better and more informed decisions.
+machine learning. I help to reduce risks and maintain trust
+in my clients' products, processes, and business critical systems.
+I also aid them in making better and more informed decisions.
 
 [.dtext-center]
 *Software Development&nbsp; &#x2022; &nbsp;Business Intelligence&nbsp; &#x2022; &nbsp;<<Open Source Projects,Clojure Specialist>>*
@@ -77,18 +77,17 @@ More details will be provided mailto:wagjo@wagjo.com[upon request].
 
 == Consulting Services
 
-I will bring additional business value to your company by:
+I bring additional business value to my clients by:
 
 * Designing, development and deployment of software solutions that
-  solve your business problems and brings additional revenue.
-* Processing and analyzing your company's available data and logs,
-  in order to discover actionable knowledge that will enable you
+  solve their business problems and brings additional revenue.
+* Processing and analyzing company's available data and logs,
+  in order to discover actionable knowledge that will enable my clients
   to make highly informed decisions.
-* Helping you to automate various line of business processes including
+* Helping to automate various line of business processes including
   data analysis one, in order to reduce costs and provide real time
   and up to date evaluations and insights.
 
-I'm available for consulting and remote contract work.
 Feel free to contact me at wagjo@wagjo.com.
 Located in Central Europe, I provide my services primarily for the EU region, and remotely.
 See more <<consulting.ad#,technology heavy details>> about my
@@ -102,7 +101,7 @@ needs.
 
 == Open Source Projects
 
-I'm https://youtu.be/NvF-GZI20L4?t=1715[one of the few]
+I'm http://blog.cognitect.com/blog/2015/6/30/clojure-17[one of the few]
 Clojure 1.7 contributors.
 
 * http://www.dunaj.org[Dunaj], an alternative core API for Clojure
