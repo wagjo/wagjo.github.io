@@ -104,7 +104,7 @@ needs.
 I'm http://blog.cognitect.com/blog/2015/6/30/clojure-17[one of the few]
 Clojure 1.7 contributors.
 
-* http://www.dunaj.org[Dunaj], an alternative core API for Clojure
+* Dunaj, an alternative core API for Clojure (no longer maintained)
 ** https://github.com/dunaj-project/crispin[Crispin], a library for managing project-wide configuration
 * Comparison of https://github.com/wagjo/serialization-formats[Data serialization formats]
 * https://github.com/wagjo/borneo[Borneo], a Clojure wrapper for Neo4j
