@@ -1,4 +1,4 @@
-= Jozef Wagner
+= Wagjo
 :icons: font
 
 Business Consultant, Experienced Software Engineer
